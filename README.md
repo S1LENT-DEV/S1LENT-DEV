@@ -36,3 +36,23 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s1lent-dev&show_icons=true&locale=en" alt="s1lent-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s1lent-dev&" alt="s1lent-dev" /></p>
+
+## Github Stats
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/0-profile-details.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/1-repos-per-language.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/2-most-commit-language.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/3-stats.svg">
+  <img src="https://raw.githubusercontent.com/sdmrf/profile-summary-cards/master/profile-summary-card-output/aura/4-productive-time.svg">
+</div>
+
+---
+
+## Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdmrf&theme=radical">
+</div>
+
+---
