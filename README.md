@@ -3,7 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1lent-dev&label=Profile%20views&color=0e75b6&style=flat" alt="s1lent-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s1lent-dev" alt="s1lent-dev" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=s1lent-dev&theme=dark_lover" alt="s1lent-dev" />
+  </a>
+</p>
+
 
 - 🔭 I’m currently working on [Elysian](https://github.com/s1lent-dev/Elysian)
 
