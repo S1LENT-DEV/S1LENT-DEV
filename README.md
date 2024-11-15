@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **deshpande.pxresh@gmail.com**
 
-- ⚡ Fun fact **Living life asynchronously**
+- ⚡ **Living life asynchronously**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
