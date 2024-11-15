@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paresh Deshpande</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India !</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s1lent-dev&label=Profile%20views&color=0e75b6&style=flat" alt="s1lent-dev" /> </p>
 
@@ -10,7 +10,7 @@
 </p>
 
 
-- 🔭 I’m currently working on [Elysian](https://github.com/s1lent-dev/Elysian)
+- 🔭 I’m currently working on [Nexync](https://github.com/s1lent-dev/nexync)
 
 - 🌱 I’m currently learning **MERN Stack & Machine learning**
 
