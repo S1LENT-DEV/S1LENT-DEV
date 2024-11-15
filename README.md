@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **MERN Stack & Machine learning**
 
-- 👯 I’m looking to collaborate on [Elysian](https://github.com/codezeniths/Elysian)
+- 👯 I’m looking to collaborate on [zephora](https://github.com/codezeniths/zephora)
 
 - 👨‍💻 All of my projects are available at [https://github.com/s1lent-dev](https://github.com/s1lent-dev)
 
